@@ -35,7 +35,7 @@ Kiến trúc mức khái niệm thể hiện mối quan hệ giữa các dịch 
 </li>
 <li><h3><a name="logical">II - Kiến trúc mức logic</a></h3>
 <hr>
-Kiến trúc mức logic thể hiện rõ ràng mối quan hệ giữa các tiến trình trong mỗi project và quan hệ của chúng với tiến trình của các project khác trong OpenStack. Người quản trị cloud OpenStack muốn thiết kế, triển khai, cấu hình hệ thống của mình cần phải hiểu sơ đồ này. Dưới đây là kiến trúc mức logic của một cloud OpenStack. (Cập nhật theo phiên bản Mitaka). 
+Kiến trúc mức logic thể hiện rõ ràng mối quan hệ giữa các tiến trình trong mỗi project và quan hệ của chúng với tiến trình của các project khác trong OpenStack. Người quản trị cloud OpenStack muốn thiết kế, triển khai, cấu hình hệ thống của mình cần phải hiểu sơ đồ này. Dưới đây là kiến trúc mức logic của một cloud OpenStack. (Cập nhật theo phiên bản Wallaby). 
 <img src="https://docs.openstack.org/install-guide/_images/openstack-arch-kilo-logical-v1.png"/>
 </li>
 </ul>
